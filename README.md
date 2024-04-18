@@ -1,11 +1,8 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 
-
 <p align="left">My name is Wahab Khan and I'm a BS Software Engineering Student.</p>
-
-
-<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h2 align="left">About me</h2>
 
