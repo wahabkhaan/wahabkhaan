@@ -1,22 +1,23 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <p align="left">My name is Wahab Khan and I'm a BS Software Engineering Student.</p>
 
-###
+
+<img align="right" alt="Coding" width="300" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h2 align="left">About me</h2>
 
-###
+
 
 <p align="left">📖 I Love Reading <br>📚 I'm currently doing BS Software Engineering <br>🎯 Goals: Best Software Developer <br>🎲 Fun fact: I don't need sleep, I need more of code.</p>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
