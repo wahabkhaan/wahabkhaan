@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=FlatAntique&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahan+khan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=FlatAntique&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahab+khan!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from pakistan</h3>
@@ -29,7 +29,7 @@
  <hr/>
  
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚔️Languages+and+Others⚔️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=FlatAntique&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚔️Languages+and+Others⚔️" />
 </h1>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,java,cpp" /><br>
@@ -39,7 +39,7 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+Contribution🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=FlatAntique&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=My+Contribution🚀" />
 </h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
