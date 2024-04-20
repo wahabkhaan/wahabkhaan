@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/yourimage.jpg">
+  <img src="https://pin.it/21RQe7jtA">
 </p>
 
 <h1 align="center">
