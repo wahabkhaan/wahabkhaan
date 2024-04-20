@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/yourimage.jpg" alt="Project Banner">
+  <img src="https://user-images.githubusercontent.com/yourusername/yourrepo/yourimage.jpg">
 </p>
 
 <h1 align="center">
