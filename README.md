@@ -29,7 +29,7 @@
  <hr/>
  
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚔️Languages+and+Others ⚔️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚔️Languages+and+Others⚔️" />
 </h1>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,java,cpp" /><br>
