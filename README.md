@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=CourierPrime-400&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahab+khan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey20&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahab+khan!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from pakistan</h3>
