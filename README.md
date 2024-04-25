@@ -1,5 +1,5 @@
 
-<img src="g_cover.jpeg" alt="Cover Image" height="200" width="1000"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgist%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a%2Fraw%2F88f20c9d749d756be63f22b09f3c4ac570bc5101%2Fprogramming.gif&tbnid=ZHM55s2_Fz-GFM&vet=1&imgrefurl=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&docid=bf7_4kDMFJjHSM&w=1281&h=716&hl=en-GB&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=a693cfc13dea3a16&shem=abc%2Ctric" alt="Cover Image" height="200" width="1000"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey-20&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wahab+khan!;" />
